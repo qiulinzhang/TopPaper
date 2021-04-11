@@ -41,10 +41,37 @@ There have been billions of academic papers around the world. However, maybe onl
 | ATSS         | [Bridging the Gap Between Anchor-based and Anchor-free Detection via   Adaptive Training Sample Selection](https://arxiv.org/abs/1912.02424)          |   0.1 K  |   CVPR  | 2020 | Shifeng Zhang | CASIA                    |
 | EfficientDet | [EfficientDet: Scalable and Efficient Object   Detection](https://arxiv.org/abs/1911.09070)                           |   0.3 K  |   CVPR  | 2020 | Mingxing Tan  | Google                   |
 ### 1.3 Object Segmentation
+|     Abbreviation |                                                                            Paper                                                                        |    Cited By |     Journal |     Year |       1st Author  |         1st Affiliation    |   |
+|------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------:|:-----------:|:--------:|:-----------------:|:--------------------------:|---|
+| FCN              | [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038)                                                             | 22 K        | CVPR        | 2015     | Jonathan Long     | UC Berkeley                |   |
+| DeepLab          | [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected   CRFs](https://arxiv.org/abs/1606.00915) | 7.4 K       | ICLR        | 2015     | Liang-Chieh Chen  | Google                     |   |
+| Unet             | [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)                                                   | 24 K        | MICCAI      | 2015     | Olaf Ronneberger  | University of Freiburg     |   |
+| -                | [Learning to Segment Object Candidates](https://arxiv.org/abs/1506.06204)                                                                               | 0.6 K       | NIPS        | 2015     | Pedro O. Pinheiro | FAIR                       |   |
+| Dilated Conv     | [Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122)                                                           | 4.5 K       | ICLR        | 2016     | Fisher Y          | Princeton University       |   |
+| -                | [Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network](https://arxiv.org/abs/1703.02719)                             | 0.7 K       | CVPR        | 2017     | Chao Peng         | Tsinghua                   |   |
+| RefineNet        | [RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation](https://arxiv.org/abs/1611.06612)                               | 1.6 K       | CVPR        | 2017     | Guosheng Lin      | The University of Adelaide |   |
 ### 1.4 Re_ID [Person Re-Identification]
 ### 1.5 OCR [Optical Character Recognition]
 ### 1.6 NAS [Neural Architecture Search]
 ### 1.7 Image Super_Resolution
+| Abbreviation |                                                                                   Paper                                                                                   | Cited By | Journal | Year |    1st Author   |      1st Affiliation      |
+|--------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------:|:-------:|:----:|:---------------:|:-------------------------:|
+| SRCNN        | [Image Super-Resolution Using Deep Convolutional   Networks](https://arxiv.org/abs/1501.00092)                                                                            |   4.1 K  |   ECCV  | 2014 | Chao Dong       | CUHK                      |
+| ESPCN        | [Real-Time Single Image and Video Super-Resolution Using an Efficient   Sub-Pixel Convolutional Neural Network](https://arxiv.org/abs/1609.05158)                         |   2.4 K  |   CVPR  | 2016 | Wenzhe Shi      | Twitter                   |
+| FSRCNN       | [Accelerating the Super-Resolution Convolutional Neural   Network](https://arxiv.org/abs/1608.00367)                                                                      |   1.3 K  |   ECCV  | 2016 | Chao Dong       | CUHK                      |
+| VDSR         | [Accurate Image Super-Resolution Using Very Deep Convolutional   Networks](https://arxiv.org/abs/1511.04587)                                                              |   3.5 K  |   CVPR  | 2016 | Jiwon Kim       | Seoul National University |
+| DRCN         | [Deeply-Recursive Convolutional Network for Image   Super-Resolution](https://arxiv.org/abs/1511.04491)                                                                   |   1.4 K  |   CVPR  | 2016 | Jiwon Kim       | Seoul National University |
+| EDSR         | [Enhanced Deep Residual Networks for Single Image   Super-Resolution](https://arxiv.org/abs/1707.02921)                                                                   |   2.0 K  |  CVPRW  | 2017 | Bee Lim         | Seoul National University |
+| DRRN         | [Image Super-Resolution via Deep Recursive Residual   Network](https://openaccess.thecvf.com/content_cvpr_2017/papers/Tai_Image_Super-Resolution_via_CVPR_2017_paper.pdf) |   1.0 K  |   CVPR  | 2017 | Ying Tai        | NJUST                     |
+| SRDenseNet   | [Image Super-Resolution Using Dense Skip   Connections](https://openaccess.thecvf.com/content_ICCV_2017/papers/Tong_Image_Super-Resolution_Using_ICCV_2017_paper.pdf)     |   0.5 K  |   ICCV  | 2017 | Tong Tong       | Imperial Vision           |
+| SRGAN        | [Photo-Realistic Single Image Super-Resolution Using a Generative   Adversarial Network](https://arxiv.org/abs/1609.04802)                                                |   5.3 K  |   CVPR  | 2017 | Christian Ledig | Twitter                   |
 ### 1.8 Image Denoising
+| Abbreviation |                                                           Paper                                                          | Cited By | Journal | Year | 1st Author | 1st Affiliation |
+|:------------:|:------------------------------------------------------------------------------------------------------------------------:|:--------:|:-------:|:----:|:----------:|:---------------:|
+| CBDNet       | [Toward Convolutional Blind Denoising of Real   Photographs](https://arxiv.org/abs/1807.04686)                           |   0.2 K  | CVPR    | 2019 | Shi Guo    | HIT             |
+| -            | [Learning Deep CNN Denoiser Prior for Image   Restoration](https://arxiv.org/abs/1704.03264)                             |   0.8 K  | CVPR    | 2017 | Kai Zhang  | HIT             |
+| CnDNN        | [Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image   Denoising](https://arxiv.org/abs/1608.03981)      |   2.9 K  | TIP     | 2017 | Kai Zhang  | HIT             |
+| FFDNet       | [FFDNet: Toward a fast and flexible solution for CNN based image   denoising](https://arxiv.org/abs/1710.04026)          |   0.6 K  | TIP     | 2018 | Kai Zhang  | HIT             |
+| SRMD         | [Learning a Single Convolutional Super-Resolution Network for Multiple   Degradations](https://arxiv.org/abs/1712.06116) |   0.3 K  | CVPR    | 2018 | Kai Zhang  | HIT             |
 ## 2. Transformer
 ---
