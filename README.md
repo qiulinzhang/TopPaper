@@ -2,6 +2,13 @@
 ### Classic Papers for Beginners, Hot Orientation for Researchers, and Impact Scope for Authors.
 There have been billions of academic papers around the world. However, maybe only 0.0...01\% among them are valuable or are worth reading. Since our limited life has never been forever, **TopPaper** provide a **Top Academic Paper Chart** for beginners and reseachers to take one step faster.
 
+Welcome to contribute more subject or valuable (at least you think) papers. Please feel free to pull requests or open an issue. 
+
+---
+
+## 0. Traditional Methods
+......
+
 ## 1. CNN [Convolutional Neural Network]
 ### 1.1 Image Classification
 |     Abbreviation |                                                                                 Paper                                                                            |    Cited By |           Journal       |     Year |       1st Author  |           1st Affiliation      |
@@ -52,8 +59,15 @@ There have been billions of academic papers around the world. However, maybe onl
 | RefineNet        | [RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation](https://arxiv.org/abs/1611.06612)                               | 1.6 K       | CVPR        | 2017     | Guosheng Lin      | The University of Adelaide |   |
 ### 1.4 Re_ID [Person Re-Identification]
 ### 1.5 OCR [Optical Character Recognition]
-### 1.6 NAS [Neural Architecture Search]
-### 1.7 Image Super_Resolution
+### 1.6 Face Recognition
+### 1.7 NAS [Neural Architecture Search]
+| Abbreviation |                                              Paper                                             | Cited By | Journal | Year |  1st Author | 1st Affiliation |
+|--------------|:----------------------------------------------------------------------------------------------:|:--------:|:-------:|:----:|:-----------:|:---------------:|
+| Darts        | [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055)                  |   1.3 K  |   ICLR  | 2019 | Hanxiao Liu | CMU             |
+| -            | [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578)     |   2.5 K  |   ICLR  | 2017 | Barret Zoph | Google          |
+| -            | [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268) |   1.2 K  |   ICML  | 2018 | Hieu Pham   | Google          |
+| -            | [SNAS: Stochastic Neural Architecture Search](https://arxiv.org/abs/1812.09926)                |   0.3 K  |   ICLR  | 2019 | Sirui Xie   | SenseTime       |
+### 1.8 Image Super_Resolution
 | Abbreviation |                                                                                   Paper                                                                                   | Cited By | Journal | Year |    1st Author   |      1st Affiliation      |
 |--------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------:|:-------:|:----:|:---------------:|:-------------------------:|
 | SRCNN        | [Image Super-Resolution Using Deep Convolutional   Networks](https://arxiv.org/abs/1501.00092)                                                                            |   4.1 K  |   ECCV  | 2014 | Chao Dong       | CUHK                      |
@@ -65,7 +79,7 @@ There have been billions of academic papers around the world. However, maybe onl
 | DRRN         | [Image Super-Resolution via Deep Recursive Residual   Network](https://openaccess.thecvf.com/content_cvpr_2017/papers/Tai_Image_Super-Resolution_via_CVPR_2017_paper.pdf) |   1.0 K  |   CVPR  | 2017 | Ying Tai        | NJUST                     |
 | SRDenseNet   | [Image Super-Resolution Using Dense Skip   Connections](https://openaccess.thecvf.com/content_ICCV_2017/papers/Tong_Image_Super-Resolution_Using_ICCV_2017_paper.pdf)     |   0.5 K  |   ICCV  | 2017 | Tong Tong       | Imperial Vision           |
 | SRGAN        | [Photo-Realistic Single Image Super-Resolution Using a Generative   Adversarial Network](https://arxiv.org/abs/1609.04802)                                                |   5.3 K  |   CVPR  | 2017 | Christian Ledig | Twitter                   |
-### 1.8 Image Denoising
+### 1.9 Image Denoising
 | Abbreviation |                                                           Paper                                                          | Cited By | Journal | Year | 1st Author | 1st Affiliation |
 |:------------:|:------------------------------------------------------------------------------------------------------------------------:|:--------:|:-------:|:----:|:----------:|:---------------:|
 | CBDNet       | [Toward Convolutional Blind Denoising of Real   Photographs](https://arxiv.org/abs/1807.04686)                           |   0.2 K  | CVPR    | 2019 | Shi Guo    | HIT             |
@@ -73,5 +87,13 @@ There have been billions of academic papers around the world. However, maybe onl
 | CnDNN        | [Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image   Denoising](https://arxiv.org/abs/1608.03981)      |   2.9 K  | TIP     | 2017 | Kai Zhang  | HIT             |
 | FFDNet       | [FFDNet: Toward a fast and flexible solution for CNN based image   denoising](https://arxiv.org/abs/1710.04026)          |   0.6 K  | TIP     | 2018 | Kai Zhang  | HIT             |
 | SRMD         | [Learning a Single Convolutional Super-Resolution Network for Multiple   Degradations](https://arxiv.org/abs/1712.06116) |   0.3 K  | CVPR    | 2018 | Kai Zhang  | HIT             |
-## 2. Transformer
+
 ---
+
+## 2. Transformer
+......
+
+---
+
+## 3. Others
+......
