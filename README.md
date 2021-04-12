@@ -61,6 +61,17 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 ### 1.4 Re_ID [Person Re-Identification]
 ### 1.5 OCR [Optical Character Recognition]
 ### 1.6 Face Recognition
+|   Abbreviation  |                                                                                        Paper                                                                                       | Cited by |          Journal          | Year |   1st Author   |         1st Affiliation         |
+|:---------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------:|:-------------------------:|:----:|:--------------:|:-------------------------------:|
+| DeepFace        | [DeepFace: Closing the Gap to Human-Level Performance in Face   Verification](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)                                 |   5.3 K  | CVPR                      | 2014 | Yaniv Taigman  | FAIR                            |
+| DeepID v1       | [Deep Learning Face Representation from Predicting 10,000   Classes](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Sun_Deep_Learning_Face_2014_CVPR_paper.pdf) |   1.8 K  | CVPR                      | 2014 | Yi Sun         | CUHK                            |
+| DeepID v2       | [Deep Learning Face Representation by Joint   Identification-Verification](https://arxiv.org/abs/1406.4773)                                                                        |   1.9 K  | NIPS                      | 2014 | Yi Sun         | CUHK                            |
+| FaceNet         | [FaceNet: A Unified Embedding for Face Recognition and   Clustering](https://arxiv.org/abs/1503.03832)                                                                             |   7.4 K  | CVPR                      | 2015 | Florian Schrof | Google                          |
+| Center Loss     | [A Discriminative Feature   Learning Approach for Deep Face Recognition                                                                                                            |   2.1 K  | ECCV                      | 2016 | Yandong Wen    | CMU                             |
+| ArcFaxe         | [ArcFace: Additive Angular Margin Loss for Deep Face   Recognition](https://arxiv.org/abs/1801.07698)                                                                              |   1.3 K  | CVPR                      | 2017 | Jiankang Deng  | Imperial College London         |
+| SphereFace      | [SphereFace: Deep Hypersphere Embedding for Face   Recognition](https://arxiv.org/abs/1704.08063)                                                                                  |   1.3 K  | CVPR                      | 2017 | Weiyang Liu    | Georgia Institute of Technology |
+| CosFace         | [CosFace: Large Margin Cosine Loss for Deep Face   Recognition](https://arxiv.org/abs/1801.09414)                                                                                  |   0.8 K  | CVPR                      | 2018 | Hao Wang       | Tecent                          |
+| AM-Softmax Loss | [Additive Margin Softmax for Face   Verification](https://arxiv.org/abs/1801.05599)                                                                                                |   0.5 K  | Signal Processing Letters | 2018 | Feng Wang      | UESTC                           |
 ### 1.7 NAS [Neural Architecture Search]
 | Abbreviation |                                              Paper                                             | Cited By | Journal | Year |  1st Author | 1st Affiliation |
 |--------------|:----------------------------------------------------------------------------------------------:|:--------:|:-------:|:----:|:-----------:|:---------------:|
@@ -92,6 +103,13 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 ---
 
 ## 2. Transformer
+|   Abbreviation  |                                                      Paper                                                     | Cited by | Journal | Year |     1st Author     | 1st Affiliation |
+|:---------------:|:--------------------------------------------------------------------------------------------------------------:|:--------:|:-------:|:----:|:------------------:|:---------------:|
+| DETR            | [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)                              |    252   |   ECCV  | 2020 | Nicolas Carion     | Facebook AI     |
+| Deformable DETR | [Deformable DETR: Deformable Transformers for End-to-End Object Detection](https://arxiv.org/abs/2010.04159)   |    12    |   ICLR  | 2021 | Xizhou Zhu         | SenseTime       |
+| VIT             | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) |    175   |   ICLR  | 2021 | Alexey Dosovitskiy | Google          |
+| IPT             | [Pre-Trained Image Processing Transformer](https://arxiv.org/abs/2012.00364)                                   |    16    |   CVPR  | 2021 | Hanting Chen       | Huawei          |
+| TNT             | [Transformer in Transformer](https://arxiv.org/abs/2103.00112)                                                 |     8    |  Arxiv  | 2021 | Kai Han            | Huawei          |
 ......
 
 ---
