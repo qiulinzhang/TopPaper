@@ -7,6 +7,11 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 ---
 
 ## 0. Traditional Methods
+| Abbreviation |                                                          Paper                                                         | Cited by | Journal | Year |   1st Author  |         1st Affiliation        |
+|:------------:|:----------------------------------------------------------------------------------------------------------------------:|:--------:|:-------:|:----:|:-------------:|:------------------------------:|
+| SIFT         | [Object Recognition from Local Scale-Invariant   Features](https://www.cs.ubc.ca/~lowe/papers/iccv99.pdf)              |   20 K   | ICCV    | 1999 | David G. Lowe | University of British Columbia |
+| HOG          | [Histograms of Oriented Gradients for Human   Detection](http://lear.inrialpes.fr/people/triggs/pubs/Dalal-cvpr05.pdf) |   35 K   | CVPR    | 2005 | Navneet Dalal | inrialpes                      |
+| SURF         | [SURF: Speeded Up Robust   Features](https://people.ee.ethz.ch/~surf/eccv06.pdf)                                       |   18 K   | ECCV    | 2006 | Herbert Bay   | ETH Zurich                     |
 ......
 
 ## 1. CNN [Convolutional Neural Network]
@@ -60,6 +65,9 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 | RefineNet        | [RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation](https://arxiv.org/abs/1611.06612)                               | 1.6 K       | CVPR        | 2017     | Guosheng Lin      | The University of Adelaide |   |
 ### 1.4 Re_ID [Person Re-Identification]
 ### 1.5 OCR [Optical Character Recognition]
+| Abbreviation |                                                                              Paper                                                                              | Cited by | Journal | Year |  1st Author | 1st Affiliation |
+|:------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------:|:-------:|:----:|:-----------:|:---------------:|
+| CTC          | [Connectionist   temporal classifaction: labelling unsegmented sequence data with recurrent   neural network](https://www.cs.toronto.edu/~graves/icml_2006.pdf) |   2.9 K  | ICML    | 2006 | Alex Graves | IDSIA           |
 ### 1.6 Face Recognition
 |   Abbreviation  |                                                                                        Paper                                                                                       | Cited by |          Journal          | Year |   1st Author   |         1st Affiliation         |
 |:---------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------:|:-------------------------:|:----:|:--------------:|:-------------------------------:|
