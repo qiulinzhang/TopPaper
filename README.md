@@ -20,6 +20,7 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 |------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------:|:-----------------------:|:--------:|:-----------------:|:------------------------------:|
 | LeNet            | [Backpropagation applied to   handwritten zip code   recognition](http://www.iro.umontreal.ca/~lisa/bib/pub_subject/finance/pointeurs/lecun-98.pdf)              |    8.3 K    |    Neural Computation   |   1989   | Yann Lecun        |     AT&T Bell Laboratories     |
 | LeNet            | [Gradient-based learning applied to   document   recognition](https://mila.quebec/wp-content/uploads/2019/08/Gradient.pdf)                                       |    35 K   | Proceedings of the IEEE |   1998   | Yann Lecun        |     AT&T Research Laboratories |
+| ImageNet            | [ImageNet: A large-scale hierarchical image database](http://www.image-net.org/static_files/papers/imagenet_cvpr09.pdf)                                       |    26 K   | Proceedings of the IEEE |   1998   | Jia Dengn        |     Princeton University |
 | AlexNet          | [ImageNet   Classification with Deep Convolutional      Neural   Networks](https://www.cs.toronto.edu/~kriz/imagenet_classification_with_deep_convolutional.pdf) |     79 K    |           NIPS          |   2012   | Alex Krizhevsky   | University of Toronto          |
 | ZFNet            | [Visualizing and Understanding   Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf)                                                                    |     11 K    |           ECCV          |   2014   | Matthew D Zeiler  | New York University            |
 | VGGNet           | [Very Deep Convolutional Networks   for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf)                                                      |     55 K    |           ICLR          |   2015   | Karen Simonyan    | Oxford                         |
@@ -108,6 +109,14 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 | FFDNet       | [FFDNet: Toward a fast and flexible solution for CNN based image   denoising](https://arxiv.org/abs/1710.04026)          |   0.6 K  | TIP     | 2018 | Kai Zhang  | HIT             |
 | SRMD         | [Learning a Single Convolutional Super-Resolution Network for Multiple   Degradations](https://arxiv.org/abs/1712.06116) |   0.3 K  | CVPR    | 2018 | Kai Zhang  | HIT             |
 
+### 1.10 Model Compression, Pruning, Quantization, Knowledge Distillation
+| Abbreviation |                                                           Paper                                                          | Cited By | Journal | Year | 1st Author | 1st Affiliation |
+|:------------:|:------------------------------------------------------------------------------------------------------------------------:|:--------:|:-------:|:----:|:----------:|:---------------:|
+| KD       | [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)                           |   5.8 K  | NIPS-W    | 2014 | Geoffrey Hinton    | Google             |
+|DeepCompression|[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)|4.9K|ICLR|2016|Song Han|Stanford|
+|Fixed Point Quant|[Fixed point quantization of deep convolutional networks](https://openreview.net/pdf?id=yovBjmpo1ur682gwszM7)|0.5 K|ICLR-W|2016|Darryl D. Lin|Qualcomm|
+|DoReFa|[DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients](https://arxiv.org/abs/1606.06160)|1.1 K|CVPR|2016|Shuchang Zhou|Megvii|
+|Fake Quant|[Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference](https://arxiv.org/abs/1712.05877)|0.8 K|CVPR|2018|Benoit Jacob|Google|
 ---
 
 ## 2. Transformer
@@ -121,6 +130,5 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 ......
 
 ---
-
-## 3. Others
+## 4. Others
 ......
