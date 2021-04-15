@@ -100,6 +100,7 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 | DRRN         | [Image Super-Resolution via Deep Recursive Residual   Network](https://openaccess.thecvf.com/content_cvpr_2017/papers/Tai_Image_Super-Resolution_via_CVPR_2017_paper.pdf) |   1.0 K  |   CVPR  | 2017 | Ying Tai        | NJUST                     |
 | SRDenseNet   | [Image Super-Resolution Using Dense Skip   Connections](https://openaccess.thecvf.com/content_ICCV_2017/papers/Tong_Image_Super-Resolution_Using_ICCV_2017_paper.pdf)     |   0.5 K  |   ICCV  | 2017 | Tong Tong       | Imperial Vision           |
 | SRGAN        | [Photo-Realistic Single Image Super-Resolution Using a Generative   Adversarial Network](https://arxiv.org/abs/1609.04802)                                                |   5.3 K  |   CVPR  | 2017 | Christian Ledig | Twitter                   |
+|RCAN|[Image Super-Resolution Using Very Deep Residual Channel Attention Networks](https://arxiv.org/abs/1807.02758)|1.0 K|ECCV|2018|Yulun Zhang|Northeastern University|
 ### 1.9 Image Denoising
 | Abbreviation |                                                           Paper                                                          | Cited By | Journal | Year | 1st Author | 1st Affiliation |
 |:------------:|:------------------------------------------------------------------------------------------------------------------------:|:--------:|:-------:|:----:|:----------:|:---------------:|
