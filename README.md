@@ -51,9 +51,11 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 | YOLO9000     | [YOLO9000: Better, Faster, Stronger.](https://arxiv.org/abs/1612.08242)                                               |   7.7 K  |   CVPR  | 2017 | Joseph Redmon | University of Washington |
 | FPN          | [Feature Pyramid Networks for Object   Detection](https://arxiv.org/abs/1612.03144)                                   |   6.7 K  |   CVPR  | 2017 | Tsung-Yi Lin  | FAIR                     |
 | Focal Loss   | [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)                                             |   6.7 K  |   ICCV  | 2017 | Tsung-Yi Lin  | FAIR                     |
+|Deformable Conv|[Deformable Convolutional Networks](https://openaccess.thecvf.com/content_ICCV_2017/papers/Dai_Deformable_Convolutional_Networks_ICCV_2017_paper.pdf)|1.6 K|ICCV|2017|Jifeng Dai|MSRA|
 | YOLO V3      | [Yolov3: An incremental improvement](https://arxiv.org/abs/1804.02767)                                                |   6.9 K  |   CVPR  | 2018 | Joseph Redmon | University of Washington |
 | ATSS         | [Bridging the Gap Between Anchor-based and Anchor-free Detection via   Adaptive Training Sample Selection](https://arxiv.org/abs/1912.02424)          |   0.1 K  |   CVPR  | 2020 | Shifeng Zhang | CASIA                    |
 | EfficientDet | [EfficientDet: Scalable and Efficient Object   Detection](https://arxiv.org/abs/1911.09070)                           |   0.3 K  |   CVPR  | 2020 | Mingxing Tan  | Google                   |
+
 ### 1.3 Object Segmentation
 |     Abbreviation |                                                                            Paper                                                                        |    Cited By |     Journal |     Year |       1st Author  |         1st Affiliation    |
 |------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------:|:-----------:|:--------:|:-----------------:|:--------------------------:|
