@@ -123,7 +123,7 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 |Once for all|[Once-for-All: Train One Network and Specialize it for Efficient Deployment](https://arxiv.org/abs/1908.09791)|0.1 K| ICLR|2020|Han Cai|MIT|
 ---
 
-## 2. Transformer
+## 2. Transformer in Vision
 |   Abbreviation  |                                                      Paper                                                     | Cited by | Journal | Year |     1st Author     | 1st Affiliation |
 |:---------------:|:--------------------------------------------------------------------------------------------------------------:|:--------:|:-------:|:----:|:------------------:|:---------------:|
 | DETR            | [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)                              |    252   |   ECCV  | 2020 | Nicolas Carion     | Facebook AI     |
@@ -132,6 +132,14 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 | IPT             | [Pre-Trained Image Processing Transformer](https://arxiv.org/abs/2012.00364)                                   |    16    |   CVPR  | 2021 | Hanting Chen       | Huawei          |
 | TNT             | [Transformer in Transformer](https://arxiv.org/abs/2103.00112)                                                 |     8    |  Arxiv  | 2021 | Kai Han            | Huawei          |
 ......
+
+---
+## 3. Transformer and Self-Attention in NLP
+|   Abbreviation  |                                                      Paper                                                     | Cited by | Journal | Year |     1st Author     | 1st Affiliation |
+|:---------------:|:--------------------------------------------------------------------------------------------------------------:|:--------:|:-------:|:----:|:------------------:|:---------------:|
+|-|[Attention Is All You Need](https://arxiv.org/abs/1706.03762)|19 K|NIPS|2017|Ashish Vaswani|Google|
+|-|[Self-Attention with Relative Position Representations](https://arxiv.org/abs/1803.02155)|0.5 K|NAACL|2018|Peter Shaw|Google|
+|Bert|[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)|17 K|NAACL|2019|Jacob Devlin|Google|
 
 ---
 ## 4. Others
