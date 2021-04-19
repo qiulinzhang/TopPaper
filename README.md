@@ -111,6 +111,9 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 | CnDNN        | [Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image   Denoising](https://arxiv.org/abs/1608.03981)      |   2.9 K  | TIP     | 2017 | Kai Zhang  | HIT             |
 | FFDNet       | [FFDNet: Toward a fast and flexible solution for CNN based image   denoising](https://arxiv.org/abs/1710.04026)          |   0.6 K  | TIP     | 2018 | Kai Zhang  | HIT             |
 | SRMD         | [Learning a Single Convolutional Super-Resolution Network for Multiple   Degradations](https://arxiv.org/abs/1712.06116) |   0.3 K  | CVPR    | 2018 | Kai Zhang  | HIT             |
+|RIDNet|[Real Image Denoising with Feature Attention](https://arxiv.org/abs/1904.07396)]|87|ICCV|2019|Saeed Anwar|CSIRO|
+|CycleISP|[CycleISP: Real Image Restoration via Improved Data Synthesis](https://arxiv.org/abs/2003.07761)|28|CVPR|2020|Syed Waqas Zamir|UAE|
+|AINDNet|[Transfer Learning from Synthetic to Real-Noise Denoising with Adaptive Instance Normalization](https://arxiv.org/abs/2002.11244)|14|CVPR|2020|Yoonsik Kim|Seoul National University|
 
 ### 1.10 Model Compression, Pruning, Quantization, Knowledge Distillation
 | Abbreviation |                                                           Paper                                                          | Cited By | Journal | Year | 1st Author | 1st Affiliation |
