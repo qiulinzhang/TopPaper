@@ -16,6 +16,7 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 
 ## 1. CNN [Convolutional Neural Network]
 ### 1.1 Image Classification
+#### 1.1.1 Architecture
 |     Abbreviation |                                                                                 Paper                                                                            |    Cited By |           Journal       |     Year |       1st Author  |           1st Affiliation      |
 |------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------:|:-----------------------:|:--------:|:-----------------:|:------------------------------:|
 | LeNet            | [Backpropagation applied to   handwritten zip code   recognition](http://www.iro.umontreal.ca/~lisa/bib/pub_subject/finance/pointeurs/lecun-98.pdf)              |    8.3 K    |    Neural Computation   |   1989   | Yann Lecun        |     AT&T Bell Laboratories     |
@@ -38,6 +39,12 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 | EfficientNet     | [EfficientNet: Rethinking Model   Scaling for Convolutional Neural   Networks](https://arxiv.org/pdf/1905.11946.pdf)                                             |    1.9 K    |           ICML          |   2019   | Mingxing Tan      | Google                         |
 | GhostNet         | [GhostNet: More Features from Cheap   Operations](https://arxiv.org/pdf/1911.11907.pdf)                                                                          |    0.1 K    |           CVPR          |   2020   | Kai Han           | Huawei                         |
 | Res2Net          | [Res2Net: A New Multi-scale Backbone   Architecture](https://arxiv.org/pdf/1904.01169.pdf)                                                                       |    0.2 K    |          TPAMI          |   2021   | Shang-Hua Gao     | Nankai University              |
+
+#### 1.1.2 Dataset, Augmentation, Trick
+| Abbreviation |                                                         Paper                                                         | Cited By | Journal | Year |   1st Author  |      1st Affiliation     |
+|:------------:|:---------------------------------------------------------------------------------------------------------------------:|:--------:|:-------:|:----:|:-------------:|:------------------------:|
+|-|[Fixing the train-test resolution discrepancy](https://arxiv.org/abs/1906.06423)|122|NeurIPS|2019|Hugo Touvron|FAIR|
+|-|[Fixing the train-test resolution discrepancy: FixEfficientNet](https://arxiv.org/abs/2003.08237)|53|Arxiv|2020|Hugo Touvron|FAIR|
 ### 1.2 Object Detection
 | Abbreviation |                                                         Paper                                                         | Cited By | Journal | Year |   1st Author  |      1st Affiliation     |
 |:------------:|:---------------------------------------------------------------------------------------------------------------------:|:--------:|:-------:|:----:|:-------------:|:------------------------:|
