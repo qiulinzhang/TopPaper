@@ -134,11 +134,13 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 |   Abbreviation  |                                                      Paper                                                     | Cited by | Journal | Year |     1st Author     | 1st Affiliation |
 |:---------------:|:--------------------------------------------------------------------------------------------------------------:|:--------:|:-------:|:----:|:------------------:|:---------------:|
 |Image Transformer|[Image Transformer](https://arxiv.org/abs/1802.05751)|337|ICML|2018|Niki Parmar|Google|
+|-|[Attention Augmented Convolutional Networks](https://arxiv.org/abs/1904.09925|191|ICCV|2019|Irwan Bello|Google|
 | DETR            | [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)                              |    252   |   ECCV  | 2020 | Nicolas Carion     | Facebook AI     |
 | Deformable DETR | [Deformable DETR: Deformable Transformers for End-to-End Object Detection](https://arxiv.org/abs/2010.04159)   |    12    |   ICLR  | 2021 | Xizhou Zhu         | SenseTime       |
 | ViT             | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) |    175   |   ICLR  | 2021 | Alexey Dosovitskiy | Google          |
-| IPT             | [Pre-Trained Image Processing Transformer](https://arxiv.org/abs/2012.00364)                                   |    16    |   CVPR  | 2021 | Hanting Chen       | Huawei          |
-| TNT             | [Transformer in Transformer](https://arxiv.org/abs/2103.00112)                                                 |     8    |  Arxiv  | 2021 | Kai Han            | Huawei          |
+| IPT             | [Pre-Trained Image Processing Transformer](https://arxiv.org/abs/2012.00364)                                   |    16    |   CVPR  | 2021 | Hanting Chen       | Huawei Noah          |
+|-|[A Survey on Visual Transformer](https://arxiv.org/abs/2012.12556)|12|Arxiv|2021|Kai Han|Huawei Noah|
+| TNT             | [Transformer in Transformer](https://arxiv.org/abs/2103.00112)                                                 |     8    |  Arxiv  | 2021 | Kai Han            | Huawei Noah         |
 ......
 
 ---
