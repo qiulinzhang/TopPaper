@@ -43,7 +43,9 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 #### 1.1.2 Dataset, Augmentation, Trick
 | Abbreviation |                                                         Paper                                                         | Cited By | Journal | Year |   1st Author  |      1st Affiliation     |
 |:------------:|:---------------------------------------------------------------------------------------------------------------------:|:--------:|:-------:|:----:|:-------------:|:------------------------:|
+|-|[Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/pdf/1812.01187.pdf)|361|CVPR|2019|Tong He|Amazon|
 |-|[Fixing the train-test resolution discrepancy](https://arxiv.org/abs/1906.06423)|122|NeurIPS|2019|Hugo Touvron|FAIR|
+|Auto-Augment|[AutoAugment: Learning Augmentation Policies from Data](https://arxiv.org/abs/1805.09501)|487|CVPR|2019|Ekin D. Cubuk|Google|
 |-|[Fixing the train-test resolution discrepancy: FixEfficientNet](https://arxiv.org/abs/2003.08237)|53|Arxiv|2020|Hugo Touvron|FAIR|
 ### 1.2 Object Detection
 | Abbreviation |                                                         Paper                                                         | Cited By | Journal | Year |   1st Author  |      1st Affiliation     |
