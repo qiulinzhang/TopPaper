@@ -135,7 +135,7 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 |:---------------:|:--------------------------------------------------------------------------------------------------------------:|:--------:|:-------:|:----:|:------------------:|:---------------:|
 | DETR            | [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)                              |    252   |   ECCV  | 2020 | Nicolas Carion     | Facebook AI     |
 | Deformable DETR | [Deformable DETR: Deformable Transformers for End-to-End Object Detection](https://arxiv.org/abs/2010.04159)   |    12    |   ICLR  | 2021 | Xizhou Zhu         | SenseTime       |
-| VIT             | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) |    175   |   ICLR  | 2021 | Alexey Dosovitskiy | Google          |
+| ViT             | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) |    175   |   ICLR  | 2021 | Alexey Dosovitskiy | Google          |
 | IPT             | [Pre-Trained Image Processing Transformer](https://arxiv.org/abs/2012.00364)                                   |    16    |   CVPR  | 2021 | Hanting Chen       | Huawei          |
 | TNT             | [Transformer in Transformer](https://arxiv.org/abs/2103.00112)                                                 |     8    |  Arxiv  | 2021 | Kai Han            | Huawei          |
 ......
@@ -144,7 +144,7 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 ## 3. Transformer and Self-Attention in NLP
 |   Abbreviation  |                                                      Paper                                                     | Cited by | Journal | Year |     1st Author     | 1st Affiliation |
 |:---------------:|:--------------------------------------------------------------------------------------------------------------:|:--------:|:-------:|:----:|:------------------:|:---------------:|
-|-|[Attention Is All You Need](https://arxiv.org/abs/1706.03762)|19 K|NIPS|2017|Ashish Vaswani|Google|
+|Transformer|[Attention Is All You Need](https://arxiv.org/abs/1706.03762)|19 K|NIPS|2017|Ashish Vaswani|Google|
 |-|[Self-Attention with Relative Position Representations](https://arxiv.org/abs/1803.02155)|0.5 K|NAACL|2018|Peter Shaw|Google|
 |Bert|[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)|17 K|NAACL|2019|Jacob Devlin|Google|
 
