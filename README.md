@@ -99,6 +99,7 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 | -            | [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578)     |   2.5 K  |   ICLR  | 2017 | Barret Zoph | Google          |
 | -            | [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268) |   1.2 K  |   ICML  | 2018 | Hieu Pham   | Google          |
 | -            | [SNAS: Stochastic Neural Architecture Search](https://arxiv.org/abs/1812.09926)                |   0.3 K  |   ICLR  | 2019 | Sirui Xie   | SenseTime       |
+|PC-Darts|[PC-DARTS: Partial Channel Connections for Memory-Efficient Architecture Search](https://arxiv.org/abs/1907.05737)| 159|ICLR|2020|Yuhui Xu|Huawei|
 ### 1.8 Image Super_Resolution
 | Abbreviation |                                                                                   Paper                                                                                   | Cited By | Journal | Year |    1st Author   |      1st Affiliation      |
 |--------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------:|:-------:|:----:|:---------------:|:-------------------------:|
