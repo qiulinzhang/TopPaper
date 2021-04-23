@@ -57,8 +57,10 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 | ShuffleNet V2    | [ShuffleNet V2: Practical Guidelines for Efficient CNN   Architecture Design](https://arxiv.org/pdf/1807.11164.pdf)                                              |    1.3 K    |           ECCV          |   2018   | Ningning Ma       | Megvii                         |
 | MobileNet_v3     | [Searching for   MobileNetV3](https://arxiv.org/pdf/1905.02244.pdf)                                                                                              |    0.6 K    |           ICCV          |   2019   | Andrew Howard     | Google                         |
 | EfficientNet     | [EfficientNet: Rethinking Model   Scaling for Convolutional Neural   Networks](https://arxiv.org/pdf/1905.11946.pdf)                                             |    1.9 K    |           ICML          |   2019   | Mingxing Tan      | Google                         |
-| GhostNet         | [GhostNet: More Features from Cheap   Operations](https://arxiv.org/pdf/1911.11907.pdf)                                                                          |    0.1 K    |           CVPR          |   2020   | Kai Han           | Huawei                         |
+| GhostNet         | [GhostNet: More Features from Cheap   Operations](https://arxiv.org/pdf/1911.11907.pdf)                                                                          |    0.1 K    |           CVPR          |   2020   | Kai Han           | Huawei Noah                         |
+| AdderNet|[AdderNet: Do We Really Need Multiplications in Deep Learning?](https://arxiv.org/abs/1912.13200) |33|CVPR|2020|Hanting Chen|Huawei Noah
 | Res2Net          | [Res2Net: A New Multi-scale Backbone   Architecture](https://arxiv.org/pdf/1904.01169.pdf)                                                                       |    0.2 K    |          TPAMI          |   2021   | Shang-Hua Gao     | Nankai University              |
+
 
 #### 1.1.2 Dataset, Augmentation, Trick
 | Abbreviation |                                                         Paper                                                         | Cited By | Journal | Year |   1st Author  |      1st Affiliation     |
