@@ -1,5 +1,5 @@
 # TopPaper
-### Classic Papers for Beginners, Impact Scope for Authors.
+### Classic Papers for Beginners and Impact Scope for Authors.
 There have been billions of academic papers around the world. However, maybe **only 0.0...01\% among them are valuable or are worth reading**. Since our limited life has never been forever, **TopPaper** provide a **Top Academic Paper Chart** for beginners and reseachers to take one step faster.
 
 Welcome to contribute more subject or valuable (at least you think) papers. Please feel free to pull requests or open an issue. 
@@ -172,6 +172,7 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 |Image Transformer|[Image Transformer](https://arxiv.org/abs/1802.05751)|337|ICML|2018|Niki Parmar|Google|
 |-|[Attention Augmented Convolutional Networks](https://arxiv.org/abs/1904.09925)|191|ICCV|2019|Irwan Bello|Google|
 | DETR            | [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)                              |    252   |   ECCV  | 2020 | Nicolas Carion     | Facebook AI     |
+|Deit|[Training data-efficient image transformers & distillation through attention](https://arxiv.org/abs/2012.12877)|57|arXiv|2020|Hugo Touvron|FAIR|
 |i-GPT|[Generative Pretraining from Pixels](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)|38|ICML|2020|Mark Chen|OpenAI|
 | Deformable DETR | [Deformable DETR: Deformable Transformers for End-to-End Object Detection](https://arxiv.org/abs/2010.04159)   |    12    |   ICLR  | 2021 | Xizhou Zhu         | SenseTime       |
 |-|[Training data-efficient image transformers & distillation through attention](https://arxiv.org/abs/2012.12877)|57|Arxiv|2020|Hugo Touvron|FAIR|
