@@ -66,6 +66,8 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 | Abbreviation |                                                         Paper                                                         | Cited By | Journal | Year |   1st Author  |      1st Affiliation     |
 |:------------:|:---------------------------------------------------------------------------------------------------------------------:|:--------:|:-------:|:----:|:-------------:|:------------------------:|
 |BN|[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/43442.pdf)| 26 K|ICML|2015|Sergey Ioffe|Google|
+|Xavier Init|[Understanding the difficulty of training deep feedforward neural networks](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)|12 K|AISTATS|2010|Xavier|Universite de Montreal|
+|Kaiming Init|[Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852?wm=1027?1)|11 K||ICCV|2015|Kaiming He|MSRA|
 |LN|[Layer Normalization](https://arxiv.org/abs/1607.06450)|2.9 K|NIPS|2016|Jimmy Lei Ba|University of Toronto|
 |GN|[Group Normalization](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yuxin_Wu_Group_Normalization_ECCV_2018_paper.pdf)|1.1 K | ECCV|2018|Yuxin Wu|FAIR|
 |-|[Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/pdf/1812.01187.pdf)|361|CVPR|2019|Tong He|Amazon|
