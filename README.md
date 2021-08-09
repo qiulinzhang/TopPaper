@@ -165,7 +165,11 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 |Fixed Point Quant|[Fixed point quantization of deep convolutional networks](https://openreview.net/pdf?id=yovBjmpo1ur682gwszM7)|0.5 K|ICLR-W|2016|Darryl D. Lin|Qualcomm|
 |DoReFa|[DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients](https://arxiv.org/abs/1606.06160)|1.1 K|CVPR|2016|Shuchang Zhou|Megvii|
 |Fake Quant|[Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference](https://arxiv.org/abs/1712.05877)|0.8 K|CVPR|2018|Benoit Jacob|Google|
+|PACT|[PACT: Parameterized Clipping Activation for Quantized Neural Networks](https://arxiv.org/abs/1805.06085)|300| arXiv|2018|Jungwook Choi|IBM|
 |Once for all|[Once-for-All: Train One Network and Specialize it for Efficient Deployment](https://arxiv.org/abs/1908.09791)|0.1 K| ICLR|2020|Han Cai|MIT|
+|LSQ|[Learned Step Size Quantization](https://arxiv.org/abs/1902.08153)|110| ICLR|2020|Steven K. Esser|IBM|
+|LSQ+|[LSQ+: Improving low-bit quantization through learnable offsets and better initialization](https://arxiv.org/abs/2004.09576)|10| CVPR|2020|Yash Bhalgat|Qualcomm|
+|EWGS|[Network Quantization with Element-wise Gradient Scaling](https://arxiv.org/abs/2104.00903)|\-| CVPR|2021|Junghyup Lee|Yonsei University|
 ---
 
 ## 2. Transformer in Vision
