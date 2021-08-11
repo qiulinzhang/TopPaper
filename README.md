@@ -4,26 +4,26 @@ There have been billions of academic papers around the world. However, maybe **o
 
 Welcome to contribute more subject or valuable (at least you think) papers. Please feel free to pull requests or open an issue. 
 
----
-- [0. Traditional Methods](#0-traditional-methods)
-- [1. CNN [Convolutional Neural Network]](#1-cnn--convolutional-neural-network-)
-  * [1.1 Image Classification](#11-image-classification)
-    + [1.1.1 Architecture](#111-architecture)
-    + [1.1.2 Dataset, Augmentation, Trick](#112-dataset--augmentation--trick)
-  * [1.2 Object Detection](#12-object-detection)
-  * [1.3 Object Segmentation](#13-object-segmentation)
-  * [1.4 Re_ID [Person Re-Identification]](#14-re-id--person-re-identification-)
-  * [1.5 OCR [Optical Character Recognition]](#15-ocr--optical-character-recognition-)
-  * [1.6 Face Recognition](#16-face-recognition)
-  * [1.7 NAS [Neural Architecture Search]](#17-nas--neural-architecture-search-)
-  * [1.8 Image Super_Resolution](#18-image-super-resolution)
-  * [1.9 Image Denoising](#19-image-denoising)
-  * [1.10 Model Compression, Pruning, Quantization, Knowledge Distillation](#110-model-compression--pruning--quantization--knowledge-distillation)
-- [2. Transformer in Vision](#2-transformer-in-vision)
-- [3. Transformer and Self-Attention in NLP](#3-transformer-and-self-attention-in-nlp)
-- [4. Others](#4-others)
-- [Acknowledgement](#acknowledgement)
-
+- [TopPaper](#toppaper)
+    + [Classic Papers for Beginners and Impact Scope for Authors.](#classic-papers-for-beginners-and-impact-scope-for-authors)
+  * [0. Traditional Methods](#0-traditional-methods)
+  * [1. CNN [Convolutional Neural Network]](#1-cnn--convolutional-neural-network-)
+    + [1.1 Image Classification](#11-image-classification)
+      - [1.1.1 Architecture](#111-architecture)
+      - [1.1.2 Dataset, Augmentation, Trick](#112-dataset--augmentation--trick)
+    + [1.2 Object Detection](#12-object-detection)
+    + [1.3 Object Segmentation](#13-object-segmentation)
+    + [1.4 Re_ID [Person Re-Identification]](#14-re-id--person-re-identification-)
+    + [1.5 OCR [Optical Character Recognition]](#15-ocr--optical-character-recognition-)
+    + [1.6 Face Recognition](#16-face-recognition)
+    + [1.7 NAS [Neural Architecture Search]](#17-nas--neural-architecture-search-)
+    + [1.8 Image Super_Resolution](#18-image-super-resolution)
+    + [1.9 Image Denoising](#19-image-denoising)
+    + [1.10 Model Compression, Pruning, Quantization, Knowledge Distillation](#110-model-compression--pruning--quantization--knowledge-distillation)
+  * [2. Transformer in Vision](#2-transformer-in-vision)
+  * [3. Transformer and Self-Attention in NLP](#3-transformer-and-self-attention-in-nlp)
+  * [4. Others](#4-others)
+  * [Acknowledgement](#acknowledgement)
 ---
 
 ## 0. Traditional Methods
