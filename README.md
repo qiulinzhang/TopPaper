@@ -7,23 +7,24 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 - [TopPaper](#toppaper)
     + [Classic Papers for Beginners and Impact Scope for Authors.](#classic-papers-for-beginners-and-impact-scope-for-authors)
   * [0. Traditional Methods](#0-traditional-methods)
-  * [1. CNN [Convolutional Neural Network]](#1-cnn--convolutional-neural-network-)
+  * [1. CNN - Convolutional Neural Network](#1-cnn---convolutional-neural-network)
     + [1.1 Image Classification](#11-image-classification)
       - [1.1.1 Architecture](#111-architecture)
-      - [1.1.2 Dataset, Augmentation, Trick](#112-dataset--augmentation--trick)
+      - [1.1.2 Dataset - Augmentation - Trick](#112-dataset---augmentation---trick)
     + [1.2 Object Detection](#12-object-detection)
     + [1.3 Object Segmentation](#13-object-segmentation)
-    + [1.4 Re_ID [Person Re-Identification]](#14-re-id--person-re-identification-)
-    + [1.5 OCR [Optical Character Recognition]](#15-ocr--optical-character-recognition-)
+    + [1.4 Re_ID Person Re-Identification](#14-re-id-person-re-identification)
+    + [1.5 OCR Optical Character Recognition](#15-ocr-optical-character-recognition)
     + [1.6 Face Recognition](#16-face-recognition)
-    + [1.7 NAS [Neural Architecture Search]](#17-nas--neural-architecture-search-)
+    + [1.7 NAS Neural Architecture Search](#17-nas-neural-architecture-search)
     + [1.8 Image Super_Resolution](#18-image-super-resolution)
     + [1.9 Image Denoising](#19-image-denoising)
-    + [1.10 Model Compression, Pruning, Quantization, Knowledge Distillation](#110-model-compression--pruning--quantization--knowledge-distillation)
+    + [1.10 Model Compression](#110-model-compression)
   * [2. Transformer in Vision](#2-transformer-in-vision)
   * [3. Transformer and Self-Attention in NLP](#3-transformer-and-self-attention-in-nlp)
   * [4. Others](#4-others)
   * [Acknowledgement](#acknowledgement)
+
 ---
 
 ## 0. Traditional Methods
@@ -34,7 +35,7 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 | SURF         | [SURF: Speeded Up Robust   Features](https://people.ee.ethz.ch/~surf/eccv06.pdf)                                       |   18 K   | ECCV    | 2006 | Herbert Bay   | ETH Zurich                     |
 ......
 
-## 1. CNN [Convolutional Neural Network]
+## 1. CNN - Convolutional Neural Network
 ### 1.1 Image Classification
 #### 1.1.1 Architecture
 |     Abbreviation |                                                                                 Paper                                                                            |    Cited By |           Journal       |     Year |       1st Author  |           1st Affiliation      |
@@ -62,7 +63,7 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 | Res2Net          | [Res2Net: A New Multi-scale Backbone   Architecture](https://arxiv.org/pdf/1904.01169.pdf)                                                                       |    0.2 K    |          TPAMI          |   2021   | Shang-Hua Gao     | Nankai University              |
 
 
-#### 1.1.2 Dataset, Augmentation, Trick
+#### 1.1.2 Dataset - Augmentation - Trick
 | Abbreviation |                                                         Paper                                                         | Cited By | Journal | Year |   1st Author  |      1st Affiliation     |
 |:------------:|:---------------------------------------------------------------------------------------------------------------------:|:--------:|:-------:|:----:|:-------------:|:------------------------:|
 |BN|[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/43442.pdf)| 26 K|ICML|2015|Sergey Ioffe|Google|
@@ -103,8 +104,8 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 | Dilated Conv     | [Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122)                                                           | 4.5 K       | ICLR        | 2016     | Fisher Y          | Princeton University       |   |
 | -                | [Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network](https://arxiv.org/abs/1703.02719)                             | 0.7 K       | CVPR        | 2017     | Chao Peng         | Tsinghua                   |   |
 | RefineNet        | [RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation](https://arxiv.org/abs/1611.06612)                               | 1.6 K       | CVPR        | 2017     | Guosheng Lin      | The University of Adelaide |   |
-### 1.4 Re_ID [Person Re-Identification]
-### 1.5 OCR [Optical Character Recognition]
+### 1.4 Re_ID Person Re-Identification
+### 1.5 OCR Optical Character Recognition
 | Abbreviation |                                                                              Paper                                                                              | Cited by | Journal | Year |  1st Author | 1st Affiliation |
 |:------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------:|:-------:|:----:|:-----------:|:---------------:|
 | CTC          | [Connectionist   temporal classifaction: labelling unsegmented sequence data with recurrent   neural network](https://www.cs.toronto.edu/~graves/icml_2006.pdf) |   2.9 K  | ICML    | 2006 | Alex Graves | IDSIA           |
@@ -120,7 +121,7 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 | SphereFace      | [SphereFace: Deep Hypersphere Embedding for Face   Recognition](https://arxiv.org/abs/1704.08063)                                                                                  |   1.3 K  | CVPR                      | 2017 | Weiyang Liu    | Georgia Institute of Technology |
 | CosFace         | [CosFace: Large Margin Cosine Loss for Deep Face   Recognition](https://arxiv.org/abs/1801.09414)                                                                                  |   0.8 K  | CVPR                      | 2018 | Hao Wang       | Tecent                          |
 | AM-Softmax Loss | [Additive Margin Softmax for Face   Verification](https://arxiv.org/abs/1801.05599)                                                                                                |   0.5 K  | Signal Processing Letters | 2018 | Feng Wang      | UESTC                           |
-### 1.7 NAS [Neural Architecture Search]
+### 1.7 NAS Neural Architecture Search
 | Abbreviation |                                              Paper                                             | Cited By | Journal | Year |  1st Author | 1st Affiliation |
 |--------------|:----------------------------------------------------------------------------------------------:|:--------:|:-------:|:----:|:-----------:|:---------------:|
 | Darts        | [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055)                  |   1.3 K  |   ICLR  | 2019 | Hanxiao Liu | CMU             |
@@ -157,7 +158,7 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 |CycleISP|[CycleISP: Real Image Restoration via Improved Data Synthesis](https://arxiv.org/abs/2003.07761)|28|CVPR|2020|Syed Waqas Zamir|UAE|
 |AINDNet|[Transfer Learning from Synthetic to Real-Noise Denoising with Adaptive Instance Normalization](https://arxiv.org/abs/2002.11244)|14|CVPR|2020|Yoonsik Kim|Seoul National University|
 
-### 1.10 Model Compression, Pruning, Quantization, Knowledge Distillation
+### 1.10 Model Compression
 | Abbreviation |                                                           Paper                                                          | Cited By | Journal | Year | 1st Author | 1st Affiliation |
 |:------------:|:------------------------------------------------------------------------------------------------------------------------:|:--------:|:-------:|:----:|:----------:|:---------------:|
 | KD       | [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)                           |   5.8 K  | NIPS-W    | 2014 | Geoffrey Hinton    | Google             |
