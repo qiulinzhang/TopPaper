@@ -24,7 +24,7 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
     + [1.7 NAS Neural Architecture Search](#17-nas-neural-architecture-search)
     + [1.8 Image Super_Resolution](#18-image-super-resolution)
     + [1.9 Image Denoising](#19-image-denoising)
-    + [1.10 Model Compression](#110-model-compression)
+    + [1.10 Model Compression - Decomposition, Pruning, Quantization, KD](#110-model-compression)
   * [2. Transformer in Vision](#2-transformer-in-vision)
   * [3. Transformer and Self-Attention in NLP](#3-transformer-and-self-attention-in-nlp)
   * [4. Others](#4-others)
@@ -163,7 +163,7 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 |CycleISP|[CycleISP: Real Image Restoration via Improved Data Synthesis](https://arxiv.org/abs/2003.07761)|28|CVPR|2020|Syed Waqas Zamir|UAE|
 |AINDNet|[Transfer Learning from Synthetic to Real-Noise Denoising with Adaptive Instance Normalization](https://arxiv.org/abs/2002.11244)|14|CVPR|2020|Yoonsik Kim|Seoul National University|
 
-### 1.10 Model Compression
+### 1.10 Model Compression - Decomposition, Pruning, Quantization, KD
 | Abbreviation |                                                           Paper                                                          | Cited By | Journal | Year | 1st Author | 1st Affiliation |
 |:------------:|:------------------------------------------------------------------------------------------------------------------------:|:--------:|:-------:|:----:|:----------:|:---------------:|
 |-|[Tensor Decompositions and Applications](https://www.kolda.net/publication/TensorReview.pdf)|8.5 K| SIAM |2009| Kolda|Sandia National Laboratories|
