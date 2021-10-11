@@ -165,7 +165,7 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 | Abbreviation |                                                           Paper                                                          | Cited By | Journal | Year | 1st Author | 1st Affiliation |
 |:------------:|:------------------------------------------------------------------------------------------------------------------------:|:--------:|:-------:|:----:|:----------:|:---------------:|
 |-|[Tensor Decompositions and Applications](https://www.kolda.net/publication/TensorReview.pdf)|8.5 K| SIAM |2009| Kolda|Sandia National Laboratories|
-|CP-Deocomp|[Speeding-up Convolutional Neural Networks Using Fine-tuned CP-Decomposition](https://arxiv.org/abs/1412.6553)|650|ICLR|2015|Vadim Lebedev|Skoltech, Moscow|
+|CP-Decomp|[Speeding-up Convolutional Neural Networks Using Fine-tuned CP-Decomposition](https://arxiv.org/abs/1412.6553)|650|ICLR|2015|Vadim Lebedev|Skoltech, Moscow|
 |Tucker-Decomp|[Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications](https://arxiv.org/abs/1511.06530)|690|ICLR|2016|Yong-Deok Kim|Samsung Electronics|
 | KD       | [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)                           |   5.8 K  | NIPS-W    | 2014 | Geoffrey Hinton    | Google             |
 |DeepCompression|[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)|4.9K|ICLR|2016|Song Han|Stanford|
