@@ -176,7 +176,7 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 |Once for all|[Once-for-All: Train One Network and Specialize it for Efficient Deployment](https://arxiv.org/abs/1908.09791)|0.1 K| ICLR|2020|Han Cai|MIT|
 |LSQ|[Learned Step Size Quantization](https://arxiv.org/abs/1902.08153)|110| ICLR|2020|Steven K. Esser|IBM|
 |LSQ+|[LSQ+: Improving low-bit quantization through learnable offsets and better initialization](https://arxiv.org/abs/2004.09576)|10| CVPR|2020|Yash Bhalgat|Qualcomm|
-|AdaRound|[Up or Down? Adaptive Rounding for Post-Training Quantization]{https://arxiv.org/abs/2004.10568}|37|ICML|2020|Markus Nagel|Qualcomm AI Research|
+|AdaRound|[Up or Down? Adaptive Rounding for Post-Training Quantization](https://arxiv.org/abs/2004.10568)|37|ICML|2020|Markus Nagel|Qualcomm AI Research|
 |EWGS|[Network Quantization with Element-wise Gradient Scaling](https://arxiv.org/abs/2104.00903)|\-| CVPR|2021|Junghyup Lee|Yonsei University|
 
 ---
