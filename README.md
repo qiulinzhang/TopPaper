@@ -174,12 +174,15 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 |Fake Quant|[Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference](https://arxiv.org/abs/1712.05877)|0.8 K|CVPR|2018|Benoit Jacob|Google|
 |PACT|[PACT: Parameterized Clipping Activation for Quantized Neural Networks](https://arxiv.org/abs/1805.06085)|300| arXiv|2018|Jungwook Choi|IBM|
 |DFQ, CLE|[data-free quantization through weight equalization and bias correction](https://arxiv.org/abs/1906.04721)|160|ICCV|2019|Markus Nagel|Qualcomm AI Research|
+|OCS|[Improving Neural Network Quantization without Retraining using Outlier Channel Splitting](https://arxiv.org/abs/1901.09504)|151|ICML|Ritchie Zhao|Cornell University|
 |Once for all|[Once-for-All: Train One Network and Specialize it for Efficient Deployment](https://arxiv.org/abs/1908.09791)|0.1 K| ICLR|2020|Han Cai|MIT|
+|Bit Split|[Towards Accurate Post-training Network Quantization via Bit-Split and Stitching](http://proceedings.mlr.press/v119/wang20c/wang20c.pdf)|28|ICML|2020|Peisong Wang|Chinese Academy of Sciences|
 |LSQ|[Learned Step Size Quantization](https://arxiv.org/abs/1902.08153)|110| ICLR|2020|Steven K. Esser|IBM|
 |LSQ+|[LSQ+: Improving low-bit quantization through learnable offsets and better initialization](https://arxiv.org/abs/2004.09576)|10| CVPR|2020|Yash Bhalgat|Qualcomm|
 |AdaRound|[Up or Down? Adaptive Rounding for Post-Training Quantization](https://arxiv.org/abs/2004.10568)|37|ICML|2020|Markus Nagel|Qualcomm AI Research|
 |EWGS|[Network Quantization with Element-wise Gradient Scaling](https://arxiv.org/abs/2104.00903)|\-| CVPR|2021|Junghyup Lee|Yonsei University|
 |-|[A White Paper on Neural Network Quantization](https://arxiv.org/abs/2106.08295)|2|arXiv|2021|Markus|Qualcomm AI Research|
+|QDROP|[QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization](https://openreview.net/forum?id=ySQH0oDyp7)|-|ICLR|2022|Xiuying Wei|Beihang University|
 ---
 
 ## 2. Transformer in Vision
