@@ -181,8 +181,10 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 |LSQ+|[LSQ+: Improving low-bit quantization through learnable offsets and better initialization](https://arxiv.org/abs/2004.09576)|10| CVPR|2020|Yash Bhalgat|Qualcomm|
 |AdaRound|[Up or Down? Adaptive Rounding for Post-Training Quantization](https://arxiv.org/abs/2004.10568)|37|ICML|2020|Markus Nagel|Qualcomm AI Research|
 |EWGS|[Network Quantization with Element-wise Gradient Scaling](https://arxiv.org/abs/2104.00903)|\-| CVPR|2021|Junghyup Lee|Yonsei University|
+|BRECQ|[BRECQ: Pushing the Limit of Post-Training Quantization by Block Reconstruction](https://arxiv.org/abs/2102.05426)|52|ICLR|2021|Yuhang Li|UESTC|
 |-|[A White Paper on Neural Network Quantization](https://arxiv.org/abs/2106.08295)|2|arXiv|2021|Markus|Qualcomm AI Research|
 |QDROP|[QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization](https://openreview.net/forum?id=ySQH0oDyp7)|-|ICLR|2022|Xiuying Wei|Beihang University|
+
 ---
 
 ## 2. Transformer in Vision
