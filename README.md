@@ -184,7 +184,7 @@ Welcome to contribute more subject or valuable (at least you think) papers. Plea
 |BRECQ|[BRECQ: Pushing the Limit of Post-Training Quantization by Block Reconstruction](https://arxiv.org/abs/2102.05426)|52|ICLR|2021|Yuhang Li|UESTC|
 |-|[A White Paper on Neural Network Quantization](https://arxiv.org/abs/2106.08295)|2|arXiv|2021|Markus|Qualcomm AI Research|
 |QDROP|[QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization](https://openreview.net/forum?id=ySQH0oDyp7)|-|ICLR|2022|Xiuying Wei|Beihang University|
-
+|-|[Overcoming Oscillations in QAT](https://arxiv.org/abs/2203.11086)|1|ICML|2022|Markus Nagel|Qualcomm AI Research|
 ---
 
 ## 2. Transformer in Vision
